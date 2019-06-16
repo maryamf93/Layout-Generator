@@ -7,15 +7,15 @@ class CaseFifth extends React.Component {
         <div className='Slot' >
             Slot-1
         </div>
-        <div className='part'>
+        <div className='partition'>
           <div className='Slot' >
               Slot-2
           </div>
           <div className='Slot border-bottom row' >
-            <div className='border-right Slottt' >
+            <div className='border-right Slot-end' >
                 Slot-3
             </div>
-            <div className='Slottt' >
+            <div className='Slot-end' >
                 Slot-4
             </div>
           </div>

@@ -7,7 +7,7 @@ class CaseFourth extends React.Component {
         <div className='Slot' >
             Slot-1
         </div>
-        <div className='part'>
+        <div className='partition'>
           <div className='Slot' >
               Slot-2
           </div>
